@@ -347,6 +347,7 @@ video{
     overflow: hidden;     /*this will make each image of equal size*/
     border-radius: 20px;
     position: relative;
+    justify-content: center;
 }
 
 .elem h2{
